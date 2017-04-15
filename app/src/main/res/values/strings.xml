@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mobile memo</string>
+    <string name="question_text">
+        welcome to Mobile
+    </string>
+    <string name="true_button">IN</string>
+</resources>
