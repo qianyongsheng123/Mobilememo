@@ -4,4 +4,5 @@
         welcome to Mobile
     </string>
     <string name="true_button">IN</string>
+    <string name="false_button">OUT</string>
 </resources>
